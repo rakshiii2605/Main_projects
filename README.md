@@ -53,3 +53,11 @@ study-plan-ai/
 - FPDF
 - smtplib/email
 
+---
+
+## ▶️ Usage
+Run the app using Streamlit:
+streamlit run app.py
+Then open the URL shown in your terminal (usually http://localhost:8501) to interact with the app.
+
+
